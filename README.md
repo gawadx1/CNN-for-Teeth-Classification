@@ -15,4 +15,4 @@ This project implements a comprehensive teeth classification system that can acc
 - **CoS** - Crown
 - **Gum** - Gum
 - **MC** - Missing Crown
-- **OC** -
+- **OC** - Others
